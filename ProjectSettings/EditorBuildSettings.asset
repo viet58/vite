@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: de0da61465c7bbf48b15aaed2673d103
+  - enabled: 1
+    path: Assets/Scenes/demo - Copy.unity
+    guid: 447f0eb109cc21b458d647a6ea26d050
+  - enabled: 0
+    path: Assets/Scenes/KetThuc.unity
+    guid: 95608d31c5fdcf842aa019c4028717f4
+  m_configObjects: {}
